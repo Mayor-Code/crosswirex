@@ -1,0 +1,8 @@
+img {
+  transition: all 2s ease;
+}
+
+.hero,
+.quote {
+  transition: opacity 1s ease;
+}
