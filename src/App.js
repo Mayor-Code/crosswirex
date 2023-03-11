@@ -88,8 +88,8 @@ function App() {
           role="alert"
         >
           <span>
-            <strong className="font-bold">Message sent!</strong>
-            <span className="block sm:inline">Well be in touch.</span>
+            <strong className="font-bold">Message sent! </strong>
+            <span className="block sm:inline">We will be in touch.</span>
           </span>
           <button onClick={() => setShowAlert(false)}>
             <svg
